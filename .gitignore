@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+*.pkl
+screenshots/
+*.docx
+
+.ipynb_checkpoints/
+*.csv
