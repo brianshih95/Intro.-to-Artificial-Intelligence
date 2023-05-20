@@ -284,7 +284,7 @@ def test(env):
 
 
 if __name__ == "__main__":
-    env = gym.make('CartPole-v0')        
+    env = gym.make('taxi-v3')        
     os.makedirs("./Tables", exist_ok=True)
 
     # training section:
